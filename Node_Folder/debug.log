@@ -1,0 +1,44 @@
+[0801/120949:ERROR:process_info.cc(608)] range at 0xe74322ac00000000, size 0x164 fully unreadable
+[0801/120949:ERROR:process_info.cc(608)] range at 0xe743231000000000, size 0x164 fully unreadable
+[0801/120949:ERROR:process_info.cc(608)] range at 0x0, size 0x164 fully unreadable
+[0801/120949:ERROR:process_reader_win.cc(141)] SuspendThread: Access is denied. (0x5)
+[0801/120949:ERROR:exception_snapshot_win.cc(57)] thread ID 4460 not found in process
+[0801/120949:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0801/120949:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0823/052540:ERROR:settings.cc(261)] Settings magic is not 1129342067
+[1127/031641:ERROR:process_info.cc(608)] range at 0xae9b1f7c00000000, size 0x161 fully unreadable
+[1127/031641:ERROR:process_info.cc(608)] range at 0xae9b1f9c00000000, size 0x161 fully unreadable
+[1127/031641:ERROR:process_info.cc(608)] range at 0x0, size 0x161 fully unreadable
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519120032454 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519120031332 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519120032676 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519053306816 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 108084205055182070 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519053280192 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519116333664 out of range
+[1127/031642:WARNING:in_range_cast.h(38)] value 1519053394960 out of range
+[0113/104542:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0113/104542:ERROR:persistent_memory_allocator.cc(658)] Corruption detected in shared-memory segment.
+[0206/162727.852:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0206/162727.858:ERROR:exception_snapshot_win.cc(87)] thread ID 13704 not found in process
+[0206/162727.858:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0216/120749.685:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0216/120749.717:ERROR:exception_snapshot_win.cc(87)] thread ID 30708 not found in process
+[0216/120749.717:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0303/174335.921:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0303/174335.921:ERROR:exception_snapshot_win.cc(87)] thread ID 4940 not found in process
+[0303/174335.921:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0303/174335.921:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0407/142557.707:ERROR:process_info.cc(343)] VirtualQueryEx: Access is denied. (0x5)
+[0407/142557.707:ERROR:process_info.cc(564)] ReadMemoryInfo failed
+[0407/142557.707:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ffcdf3a3970 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0407/142557.707:WARNING:process_snapshot_win.cc(68)] ReadMemory ExceptionInformation failed
+[0407/142557.707:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0407/142557.707:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0414/180152.380:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0414/180152.392:ERROR:process_info.cc(625)] range at 0xe52d25d200000000, size 0x15a fully unreadable
+[0414/180152.392:ERROR:process_info.cc(625)] range at 0xe52d263200000000, size 0x15a fully unreadable
+[0414/180152.392:ERROR:process_info.cc(625)] range at 0x0, size 0x15a fully unreadable
+[0503/203050.436:ERROR:process_info.cc(625)] range at 0xa0af26be00000000, size 0x20d fully unreadable
+[0503/203050.436:ERROR:process_info.cc(625)] range at 0xa0af272400000000, size 0x20d fully unreadable
+[0503/203050.436:ERROR:process_info.cc(625)] range at 0x0, size 0x20d fully unreadable
